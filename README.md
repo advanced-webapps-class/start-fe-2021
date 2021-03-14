@@ -8,4 +8,5 @@ https://jnuclass.jejunu.ac.kr/
 - [bash zsh](https://www.google.com/search?q=bash+zsh&oq=bash+zsh&aqs=chrome.0.69i59j0l6j69i60.197j0j1&sourceid=chrome&ie=UTF-8)
 - [FE로드맵](https://smoh.tistory.com/388)
 - [플러터](https://flutter-ko.dev/)
+- [웹과인터넷의 이해](https://www.youtube.com/watch?v=fnBJ6JPXOJo&list=PL-cD8pbS-mXgu22w7auoyTxND5_uzj3Qk)
 
